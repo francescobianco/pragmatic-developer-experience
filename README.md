@@ -33,9 +33,7 @@ Rather than vague “happiness” goals, we focus on **discovering blockers, qua
 A loop inspired by lean, agile, and engineering effectiveness:
 
 ```
-
-\[Observe] → \[Map] → \[Measure] → \[Improve] → \[Validate] → Repeat
-
+Observe → Map → Measure → Improve → Validate → Repeat
 ```
 
 ### 1. Observe
