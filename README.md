@@ -85,13 +85,9 @@ Observe → Map → Measure → Improve → Validate → Repeat
 
 This is not about making developers “happy” in abstract. It’s about **enabling flow, eliminating friction**, and treating internal experience as a first-class product.
 
----
-
 ## 💬 Want to Contribute?
 
 We welcome ideas, tools, and real-world examples. Open an issue or PR to help us evolve the Pragmatic DevEx framework.
-
----
 
 ## 📄 License
 
